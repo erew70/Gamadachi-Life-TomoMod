@@ -6,6 +6,9 @@
 
 Gamadachi Life: TomoMod is a new mod for Tomodachi Life featuring custom music, rooms, clothing, items, and more! Right now so far I only have some of the music planned out, but if you have any music, clothing, rooms, or item ideas DM me on discord: erew0962
 
+## License
+
+---
 
 Boost Software License - Version 1.0 - August 17th, 2003
 
