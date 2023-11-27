@@ -2,8 +2,7 @@
 
 ---
 
-## **THIS PROJECT HAS JUST STARTED YESTERDAY (11/25/2023), SO DO NOT EXPECT ANY UPDATES OR RELEASES FOR A WHILE (this mod will take a while)**
-**"Good things take time..."**
+## **THIS PROJECT HAS JUST STARTED YESTERDAY (11/25/2023), SO DO NOT EXPECT ANY UPDATES OR RELEASES FOR A WHILE (this mod will take a while)** **"Good things take time..."**
 
 Gamadachi Life: TomoMod is a new mod for Tomodachi Life featuring custom music, rooms, clothing, items, and more! Right now so far I only have some of the music planned out, but if you have any music, clothing, rooms, or item ideas DM me on discord: erew0962
 
